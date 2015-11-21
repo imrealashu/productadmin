@@ -1,7 +1,7 @@
 ## Install
 
 ``` bash
-"singh/productadmin":"0.1.*"
+"imrealashu/productadmin":"0.1.*"
 ```
 
 ## Usage
