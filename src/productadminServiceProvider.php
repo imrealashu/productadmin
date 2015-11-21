@@ -17,7 +17,7 @@ class productadminServiceProvider extends ServiceProvider
             require __DIR__.'/routes.php';
         }
 
-        $this->loadViewsFrom(base_path('resources/views'),'productsadmin');
+        $this->loadViewsFrom(base_path('resources/views'),'productadmin');
 
         $this->publishes([
             __DIR__.'/views' => base_path('resources/views')
